@@ -1,0 +1,26 @@
+name: ci
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps (API)
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r app/requirements.txt
+          python -m compileall app
+
+      - name: Docker build (API)
+        run: |
+          docker build -t mini-mem0-api:ci ./app
