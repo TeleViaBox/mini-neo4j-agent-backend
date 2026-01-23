@@ -1,5 +1,8 @@
 # mini-neo4j-agent-backend (Neo4j + FastAPI + Prometheus + Grafana)
 
+(Note): AWS demo: https://github.com/TeleViaBox/mini-neo4j-agent-backend/blob/main/AWS_README.md 
+
+
 A minimal, production-shaped backend MVP inspired by **mem0-style graph memory**: a FastAPI service that writes/searches “memories” in **Neo4j**, exposes **Prometheus** metrics, and ships with a ready-to-use **Grafana** dashboard.
 
 This repo is intentionally small but end-to-end:
