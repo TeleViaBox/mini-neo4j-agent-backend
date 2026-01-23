@@ -7,6 +7,9 @@ This repo is intentionally small but end-to-end:
 - **API layer:** FastAPI (health/readiness + memory write/search)
 - **Observability:** Prometheus scrape + Grafana dashboard provisioning (auto-load)
 
+
+<img width="2974" height="994" alt="image" src="https://github.com/user-attachments/assets/f302411c-7d54-4c58-b2bf-dd079dcaa83f" />
+
 ---
 
 ## Architecture
