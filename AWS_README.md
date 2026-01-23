@@ -11,6 +11,8 @@ IAM principal used from local machine: `arn:aws:iam::927709485885:user/cli-admin
 
 <img width="386" height="471" alt="image" src="https://github.com/user-attachments/assets/643ec103-9b97-4f69-8940-933dee2155ba" />
 
+<img width="781" height="319" alt="image" src="https://github.com/user-attachments/assets/0d5015db-c2e6-4636-a00e-d290c668a505" />
+
 
 ---
 
