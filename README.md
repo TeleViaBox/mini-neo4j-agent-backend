@@ -10,6 +10,10 @@ This repo is intentionally small but end-to-end:
 
 <img width="2974" height="994" alt="image" src="https://github.com/user-attachments/assets/f302411c-7d54-4c58-b2bf-dd079dcaa83f" />
 
+
+<img width="1372" height="744" alt="image" src="https://github.com/user-attachments/assets/c8b605e0-eaee-4155-a7c0-ae3ee475b859" />
+
+
 ---
 
 ## Architecture
