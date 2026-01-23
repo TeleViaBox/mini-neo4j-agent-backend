@@ -7,7 +7,10 @@ Region: `us-east-2`
 AWS Account: `927709485885`  
 IAM principal used from local machine: `arn:aws:iam::927709485885:user/cli-admin`
 
+<img width="850" height="549" alt="image" src="https://github.com/user-attachments/assets/d66ca8d9-159a-40d0-9c90-f3db4ecb55e9" />
+
 <img width="386" height="471" alt="image" src="https://github.com/user-attachments/assets/643ec103-9b97-4f69-8940-933dee2155ba" />
+
 
 ---
 
