@@ -1,4 +1,4 @@
-# mini-mem0-backend (Neo4j + FastAPI + Prometheus + Grafana)
+# mini-neo4j-agent-backend (Neo4j + FastAPI + Prometheus + Grafana)
 
 A minimal, production-shaped backend MVP inspired by **mem0-style graph memory**: a FastAPI service that writes/searches “memories” in **Neo4j**, exposes **Prometheus** metrics, and ships with a ready-to-use **Grafana** dashboard.
 
