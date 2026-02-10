@@ -1,5 +1,8 @@
 # mini-neo4j-agent-backend (Neo4j + FastAPI + Prometheus + Grafana)
 
+
+<img width="850" height="549" alt="image" src="https://github.com/user-attachments/assets/d66ca8d9-159a-40d0-9c90-f3db4ecb55e9" />
+
 (Note): AWS demo: https://github.com/TeleViaBox/mini-neo4j-agent-backend/blob/main/AWS_README.md 
 
 
