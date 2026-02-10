@@ -1,5 +1,4 @@
-# mini-neo4j-agent-backend (Neo4j + FastAPI + Prometheus + Grafana)
-
+# Neo4j + FastAPI + Prometheus + Grafana (Observability, Maintainability) + Load Test End-to-end Deployed on AWS cloud platform + Load Testing on AWS
 
 <img width="850" height="549" alt="image" src="https://github.com/user-attachments/assets/d66ca8d9-159a-40d0-9c90-f3db4ecb55e9" />
 
